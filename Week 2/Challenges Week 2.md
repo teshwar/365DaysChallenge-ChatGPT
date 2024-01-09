@@ -1,8 +1,7 @@
 Week 2: Data Structures and Algorithms
-8. Day 8: Lists and List Comprehensions
-
-    Perform various operations on lists.
-    Use list comprehensions to generate new lists.
+    Day 8: Lists and List Comprehensions
+        Perform various operations on lists.
+        Use list comprehensions to generate new lists.
 
     Day 9: Tuples and Sets
         Explore tuple operations and immutability.
