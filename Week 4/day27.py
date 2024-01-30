@@ -1,6 +1,9 @@
 """
-This example introduces three design patterns:
+Day 27: Design Patterns (Part 1)
+    Introduce design patterns such as Singleton, Factory, and Observer. Implement them in Python.
 
+--------------------------------------------------------------------------------------------------------------------
+    
     Singleton Design Pattern:
         The Singleton class ensures that there is only one instance of the class. Subsequent calls to the constructor return the same instance.
 
