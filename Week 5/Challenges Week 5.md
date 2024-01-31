@@ -1,21 +1,35 @@
-Week 4: Advanced Python Concepts (Day 22-28: Advanced Python Features)
-    Day 22: Decorators (Advanced)
-        Explore more advanced decorator concepts, such as decorators with arguments and class decorators.
+Week 5: Web Development (Flask and HTML/CSS)
+Day 29: Introduction to Flask
 
-    Day 23: Context Managers
-        Learn about context managers and create your own context manager using the with statement.
+    Set up a basic Flask application.
+    Create a route that returns a simple "Hello, Flask!" message.
 
-    Day 24: Generators (Advanced)
-        Dive deeper into generators and explore asynchronous generators and generator expressions.
+Day 30: HTML/CSS Basics
 
-    Day 25: Metaclasses
-        Understand metaclasses and create a simple metaclass to customize class creation.
+    Create an HTML page with a form that includes input fields, radio buttons, checkboxes, and a submit button.
+    Style the HTML page using CSS to make it visually appealing.
 
-    Day 26: Python Memory Management
-        Explore Python memory management, including garbage collection and memory optimization techniques.
+Day 31: Flask Forms
 
-    Day 27: Design Patterns (Part 1)
-        Introduce design patterns such as Singleton, Factory, and Observer. Implement them in Python.
+    Extend your Flask application to handle form submissions.
+    Implement a route that processes the form data and displays it on another page.
 
-    Day 28: Design Patterns (Part 2)
-        Continue exploring design patterns, focusing on patterns like Strategy, Command, and Template Method.
+Day 32: Dynamic Routing in Flask
+
+    Create a dynamic route in Flask that takes a parameter from the URL.
+    Use this parameter to display personalized messages on the webpage.
+
+Day 33: Flask Templates
+
+    Learn about Flask templates.
+    Refactor your Flask application to use templates for rendering HTML pages.
+
+Day 34: Flask and Database
+
+    Set up a simple SQLite database.
+    Modify your Flask application to interact with the database, storing and retrieving data.
+
+Day 35: Deployment with Flask
+
+    Deploy your Flask application on a platform like Heroku or PythonAnywhere.
+    Share the link to your live application.

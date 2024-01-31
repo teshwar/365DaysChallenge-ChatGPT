@@ -1,21 +1,35 @@
-Week 4: Advanced Python Concepts (Day 22-28: Advanced Python Features)
-    Day 22: Decorators (Advanced)
-        Explore more advanced decorator concepts, such as decorators with arguments and class decorators.
+Week 6: Web Scraping
+Day 36: Introduction to Web Scraping
 
-    Day 23: Context Managers
-        Learn about context managers and create your own context manager using the with statement.
+    Learn the basics of web scraping.
+    Use the requests library to fetch HTML content from a webpage.
 
-    Day 24: Generators (Advanced)
-        Dive deeper into generators and explore asynchronous generators and generator expressions.
+Day 37: HTML Parsing with BeautifulSoup
 
-    Day 25: Metaclasses
-        Understand metaclasses and create a simple metaclass to customize class creation.
+    Explore HTML parsing with BeautifulSoup.
+    Extract specific information from the HTML content.
 
-    Day 26: Python Memory Management
-        Explore Python memory management, including garbage collection and memory optimization techniques.
+Day 38: Advanced HTML Parsing
 
-    Day 27: Design Patterns (Part 1)
-        Introduce design patterns such as Singleton, Factory, and Observer. Implement them in Python.
+    Learn advanced techniques for parsing complex HTML structures.
+    Handle scenarios involving nested elements and attributes.
 
-    Day 28: Design Patterns (Part 2)
-        Continue exploring design patterns, focusing on patterns like Strategy, Command, and Template Method.
+Day 39: Scraping Dynamic Websites
+
+    Understand how to scrape content from websites that load data dynamically using JavaScript.
+    Use tools like Selenium or Scrapy for dynamic web scraping.
+
+Day 40: Handling Forms and Sessions
+
+    Explore techniques for interacting with forms on websites.
+    Learn how to maintain sessions during web scraping.
+
+Day 41: Handling Pagination
+
+    Deal with paginated content on websites.
+    Write a scraper that navigates through multiple pages to collect data.
+
+Day 42: Scraping Best Practices and Ethics
+
+    Understand best practices in web scraping.
+    Discuss ethical considerations and the importance of respecting website terms of service.
