@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask and Database</title>
+</head>
+<body>
+    <h1>Items</h1>
+    <ul>
+        {% for item in items %}
+            <li>{{ item.name }}</li>
+        {% endfor %}
+    </ul>
+
+    <form method="post" action="/add_item">
+        <label for="item_name">Add Item:</label>
+        <input type="text" name="item_name" required>
+        <button type="submit">Add</button>
+    </form>
+</body>
+</html>
